@@ -21,7 +21,7 @@
     }
   ],
   "require": {
-    "php": ">=7.4|<=8.2",
+    "php": ">=7.4|<=8.5",
     "ext-swoole": "^4",
     "illuminate/console": ">=5.4",
     "illuminate/contracts": ">=5.4",
